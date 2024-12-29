@@ -8,7 +8,7 @@ To get started with this project, you will need to have the following tools inst
 - Ollama [https://ollama.com/](https://ollama.com/)
 
 ## Setting Up the Project
-1. Clone the repository: `git clone https://github.com/adhika16/ollama-chatbot.git`
+1. Clone the repository: `https://github.com/leibeert/chat_with_ollama.git`
 2. Activate your virtual environment. If you haven't created one yet, you can create it using `python -m venv <venv_name>` and activate it based on your operating system:
     - On Windows:
         ```shell
